@@ -1,0 +1,6 @@
+pip>=19.3.1
+setuptools>=41.0.1
+python-dotenv
+flask-restplus==0.13.0
+gunicorn==20.0.4
+
